@@ -1,0 +1,17 @@
+{
+  "1168507266790588486": {
+    "serverName": "Test",
+    "memberCount": 7,
+    "joinedAt": "2024-11-10T18:19:41.413Z",
+    "welcomeChannel": "1168507379369910292",
+    "welcomeEnabled": true,
+    "welcomeEmbed": {
+      "title": "**Bienvenue**"
+    },
+    "goodbyeChannel": "1305590725370581124",
+    "goodbyeEnable": true,
+    "goodbyembed": {
+      "title": "**Bye bye**"
+    }
+  }
+}
